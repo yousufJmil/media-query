@@ -1,2 +1,1 @@
-# media-query
-media-query
+https://yousufjmil.github.io/media-query
